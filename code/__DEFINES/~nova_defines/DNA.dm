@@ -61,8 +61,7 @@
 //Defines for an accessory to be randomed
 #define ACC_RANDOM		"random"
 
-//BLUEMOON EDIT - MARKING SLOTS - Increased by 1 from Nova's default 3 to allow for a slightly wider range of character customisation.
-#define MAXIMUM_MARKINGS_PER_LIMB 4
+#define MAXIMUM_MARKINGS_PER_LIMB 4 // Bluemoon edit - MARKINGSLOTS - Increased from Nova's default 3, to allow a slightly bigger range of character customisation.
 
 #define BODY_SIZE_NORMAL 1.00
 #define BODY_SIZE_MAX 3.0 //BLUEMOON EDIT - SIZEPLAY - Increased to 3.0 to provide a wider array of size options in the editor. Heights above 18' must be achieved with Prospacillin.
